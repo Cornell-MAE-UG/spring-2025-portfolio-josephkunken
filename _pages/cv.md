@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Joseph Kunken Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jbk232@cornell.edu](mailto:jbk232@cornell.edu) | | | **Phone:** 516 853 8750
 
 ---
 
@@ -19,52 +19,45 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.98/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **[Oceanside High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2023]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, Autodesk AutoCAD 
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Crutch Buddy]**:  
+  *[Designed and manufactured a clamping mechanism to secure crutches to a table]*  
+  - Involved in idea generation and development  
+  - Gained experience in product development, 3D printing, and CAD  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[MiniBoat]**:  
+  *[Designed a miniature sailboat hull]*  
+  - Gained inside in using SolidWorks  
+  - Increased knowledge of sailboat manufacturing  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **[High Performance Martial Arts] - Taekwondo Instructor**  
+  [December, 2021] - [Januart, 2024]  
+  - Independelty led and organized classes of up to 24 students in training martial arts skills 
+  - Assisted in organizing and judging local tournaments   
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [The Language Expansion Program]  
 
 ---
 
