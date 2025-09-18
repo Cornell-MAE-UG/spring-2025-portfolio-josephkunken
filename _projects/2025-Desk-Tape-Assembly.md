@@ -8,6 +8,6 @@ image: /assets/images/Desk Tape Assembly.png
 ---
 
 
-During some of my spare time I wanted to test and expand my SolidWorks capabilities by modeling an office desk tape dispenser.  I made sure to use exact measurements to ensure 1-to-1 accuracy.  
+In my spare time, I challenged myself to improve my SolidWorks skills by modeling an office desk tape dispenser with precise, real-world dimensions. I focused on achieving 1:1 scale accuracy to closely replicate the physical object, enhancing my proficiency in detailed CAD modeling and measurement verification.  
 
 

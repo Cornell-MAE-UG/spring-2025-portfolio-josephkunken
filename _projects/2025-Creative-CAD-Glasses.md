@@ -8,5 +8,5 @@ image: "/assets/images/Creative CAD Glasses.jpg"
 ---
 
 
-As part of a creative CAD assignment, I chose to create a CAD model of my pair of glasses.  I am particularly proud of how this model turned out.
+For a creative CAD project, I chose to design a detailed 3D model of my own pair of glasses.  This challenged me to capture the intricate curves, shapes, and precise dimensions, and I am particularly proud of the realism of the final model.
 

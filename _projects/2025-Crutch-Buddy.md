@@ -7,12 +7,22 @@ technologies: [Autodesk Fusion360, 3D Printing]
 image: "/assets/images/Crutch Buddy.png"
 ---
 
-For my Introduction to Mechanical Design class during the Spring of 2025, I worked within a group of 5 other members to design and create our own product: Crutch Buddy.
+In a team of six, I collaborated to design and develop Crutch Buddy, an assistive device aimed at improving the everyday comfort and convenience of crutch users in school and work environments.
 
-The product aims to meet the needs of those who require the use of crutches during school or work activities.  Normally when sitting down with crutches, the user must lay their crutches against a table or wall, potentially in a precarious position or far away from the user.  To resolve this discomfort, our product serves as a method to secure crutches to a table with minimal effort.
+Problem:
+Crutch users often face the challenge of safely storing their crutches when seated. Typically, crutches are leaned against tables or walls, which can be unstable or place the crutches out of reach.
 
-The design process included target audience interviews and extensive prototyping.  This project involved the use of Autodesk Fusion360 to model and design components of the product.  
+Solution:
+Our product securely attaches crutches to tables with minimal effort, providing a stable and accessible resting place that enhances user comfort and safety.
 
-Manufacturing involved buying materials including a rubber sheet and extension springs from McMaster-Carr, as well as 3D printing the main components of our design.  
+Design Process:
+
+- Conducted interviews with target users to identify needs and pain points
+- Iteratively prototyped the device using Autodesk Fusion360 for 3D modeling
+- Selected materials such as rubber sheets and extension springs sourced from McMaster-Carr
+- Manufactured main components through 3D printing
+
+Outcome:
+The final design balances functionality, ease of use, and manufacturability, with a detailed final report documenting the process and results.  
 
 [Access the Final Report]({{ "/assets/Crutch Buddy Final Report.pdf" | relative_url }}) in PDF format.

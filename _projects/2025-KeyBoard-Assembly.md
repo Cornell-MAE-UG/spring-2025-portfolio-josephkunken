@@ -8,6 +8,6 @@ image: /assets/images/KeyBoard Assembly.png
 ---
 
 
-During some of my spare time I wanted to test and expand my SolidWorks capabilities by modeling a standard office mechanical keyboard.  I made sure to use exact measurements to ensure 1-to-1 accuracy.
+In my spare time, I took on a personal challenge to enhance my SolidWorks skills by creating a highly detailed 3D model of a standard office mechanical keyboard. Using precise, real-world measurements, I ensured the model was built to exact 1:1 scale accuracy, refining my ability to capture intricate features and improve dimensional fidelity in CAD design.
 
 
