@@ -61,7 +61,7 @@ A current junior at Cornell University studying Mechanical Engineering with a st
 
 #### Leadership, Volunteering & Interests
 - Volunteer Taekwondo Judge and Instructor
-- Team Captain, Varsity Bowling Team
+- Team Captain, High School Varsity Bowling Team
 - Caregiver for quadriplegic father
 - Clubs: Language Expansion Program, Bowling Club
 

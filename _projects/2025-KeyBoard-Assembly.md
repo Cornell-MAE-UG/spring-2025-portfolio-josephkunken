@@ -1,6 +1,7 @@
 ---
 layout: project
-title: KeyBoard
+title: Office Mechanical KeyBoard
+
 description: Office Mechanical KeyBoard
 technologies: [SolidWorks]
 image: /assets/images/KeyBoard Assembly.png
