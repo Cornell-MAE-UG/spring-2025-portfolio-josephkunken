@@ -1,6 +1,7 @@
 ---
 layout: project
 title: CUSail 2024-2025 Boat
+
 description: Autonomous Sailboat
 technologies: [SolidWorks, hand tools, epoxy resin, etc]
 image: /assets/images/CUSail Boat.png

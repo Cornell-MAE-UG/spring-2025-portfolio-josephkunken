@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Creative Glasses CAD
+
 description: CAD Project
 technologies: [Autodesk Fusion]
 image: "/assets/images/Creative CAD Glasses.jpg"

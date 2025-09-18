@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Crutch Buddy Product
+
 description: Design Project
 technologies: [Autodesk Fusion360, 3D Printing]
 image: "/assets/images/Crutch Buddy.png"
