@@ -4,12 +4,25 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+<!-- Main Project Image -->
+{% if page.image %}
+<p>
+  <img src="{{ page.image | relative_url }}" 
+       alt="{{ page.imagealt | default: page.title }}" 
+       class="project-image" 
+       style="width:100%; max-width:800px; margin-bottom:20px;">
+</p>
+{% endif %}
 
+<!-- Page Markdown content -->
 {{ content }}
 
+<!-- Technologies Used -->
+{% if page.technologies %}
 <p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
+{% endif %}
 
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
+<!-- Back -->
+<a href="{{ "/projects/" | relative_url }}" class="back-arrow" style="display:inline-block; margin-top:20px;">
     <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
 </a>
