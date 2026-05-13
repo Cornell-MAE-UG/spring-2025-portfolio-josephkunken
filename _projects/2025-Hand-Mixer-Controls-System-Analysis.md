@@ -2,7 +2,7 @@
 layout: project
 title: Hand Mixer Control System Analysis
 description: MAE 3260 System Dynamics Final Project
-technologies: [AutoDesk Fusion360, Ansys]
+technologies: [MATLAB]
 image: /assets/images/MAE-3260-Final-Project/MAE-3260-Hand-Mixer.png
 ---
 
